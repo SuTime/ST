@@ -1,4 +1,4 @@
-baseURL       = "http://njb.netlify.app/"
+baseURL       = "https://njb.netlify.app/"
 languageCode  = "en-us"
 title         = "STAGING"
 theme         = "roxo"
