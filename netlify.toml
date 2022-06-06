@@ -1,7 +1,7 @@
 HUGO_VERSION = "0.99.1"
 
-[[redirects]]
-  from = "/*"
-  to = "https://sugartimewax.com"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "/*"
+#   to = "https://sugartimewax.com"
+#   status = 301
+#   force = true
