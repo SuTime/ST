@@ -1,0 +1,7 @@
+HUGO_VERSION = "0.99.1"
+
+[[redirects]]
+  from = "http://ststaging.netlify.app"
+  to = "https://sugartimewax.com"
+  status = 301
+  force = true
