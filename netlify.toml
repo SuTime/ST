@@ -3,5 +3,5 @@ HUGO_VERSION = "0.99.1"
 [[redirects]]
   from = "/*"
   to = "https://sugartimewax.com"
-  status = 301
+  status = 302
   force = true
