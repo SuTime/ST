@@ -1,4 +1,4 @@
-baseURL       = "https://njb.netlify.app"
+baseURL       = "https://ststaging.netlify.app"
 languageCode  = "en-us"
 title         = "Roxo | Creative Design Agency"
 theme         = "roxo"
