@@ -1,0 +1,5 @@
+https://stproduction.netlify.app/* https://example.com/:splat 301!
+http://stproduction.netlify.app/*  https://example.com/:splat 301!
+https://master--stproduction.netlify.app/* https://example.com/:splat 301!
+http://master--stproduction.netlify.app/*  https://example.com/:splat 301!
+
